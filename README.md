@@ -3,6 +3,7 @@
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;MERN+Stack+Developer+👨🏻‍💻;Frontend+Developer+👨🏻‍💻;Backend+Developer+👨🏻‍💻;1200%2B+Hours+of+Coding+Experience+⚡️)</div>](https://git.io/typing-svg)
 
 
+
 <h4> I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code. </h4>
 <h4> I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. </h4>
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
