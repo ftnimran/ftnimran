@@ -86,6 +86,8 @@
   <img style="height: 14rem;" src="https://github-contributor-stats.vercel.app/api?username=ftnimran&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"  />
   <img class="ht1" id="github-top-langs" style="border: 1px solid rgb(119, 105, 236); height: 14rem;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ftnimran&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true' height="150">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ftnimran&theme=tokyonight&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1" />
+  
+  ![snake gif](https://github.com/ftnimran/ftnimran/blob/output/github-snake-dark.svg)
 </div>
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 
