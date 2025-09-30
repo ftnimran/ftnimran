@@ -101,7 +101,7 @@
 
 ## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625638/Projects%20readme/lets-go-hqo_njsbbx.gif" width="25"> <b>Top repository</b>
 <div align="center">
-  <a href="https://github.com/ftnimran/Team-Work" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Team-Work"></a>
-  <a href="https://github.com/ftnimran/Shayari-Club" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Shayari-Club"></a>
+  <a href="https://ftnimran.github.io/Team-Work" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Team-Work"></a>
+  <a href="https://shayari-05.netlify.app/" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Shayari-Club"></a>
 </div>
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
