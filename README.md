@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Html, Css, JavaScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio05.qzz.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://react-orcin-kappa.vercel.app/)
 
 - 📄 Know about my experiences <a href="https://ftnlinks.qzz.io/pdf/IMRAN%20ALI.pdf">Resume</a>
 
