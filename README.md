@@ -15,15 +15,15 @@
 
 <img align="right" alt="Coding" width="340" height="245" src="animation/coding animated.gif" />
 
-- 🔭 I'm currently working on repository [Work](https://github.com/ftnimran/Team-Work)
+- 🔭 I'm currently working on repository [Work](https://github.com/ftnimran/library-management-system)
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Html, Css, JavaScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://react-orcin-kappa.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-732.vercel.app/)
 
-- 📄 Know about my experiences <a href="https://ftnlinks.qzz.io/pdf/IMRAN%20ALI.pdf">Resume</a>
+- 📄 Know about my experiences <a href="https://social-media-links-732.vercel.app/assets/pdf/IMRAN%20ALI.pdf">Resume</a>
 
 - 📫 How to reach me **imran30599@gmail.com**
 
@@ -82,10 +82,9 @@
 
 <div align="center">
   <h2  align='left'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats</h2>
-  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api?username=ftnimran&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img style="height: 10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftnimran&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=10&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ftnimran&theme=tokyonight" >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ftnimran&theme=tokyonight&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1" />
+  <img style="height: 10rem;" src="https://github-stats-extended.vercel.app/api?username=ftnimran&hide_title=true&show_icons=true&theme=tokyonight"  />
+  <img style="height: 10rem;" src="https://github-stats-extended.vercel.app/api/top-langs?username=ftnimran&layout=compact&hide_title=true&langs_count=6&theme=tokyonight"  />
+  <img style="height: 20rem;" src="https://github-readme-activity-graph.vercel.app/graph?username=ftnimran&theme=tokyonight&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1" />
   
   ![snake gif](https://github.com/ftnimran/ftnimran/blob/output/github-snake-dark.svg)
 </div>
@@ -95,7 +94,7 @@
 
 ## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625638/Projects%20readme/lets-go-hqo_njsbbx.gif" width="25"> <b>Top repository</b>
 <div align="center">
-  <a href="https://github.com/ftnimran/social-media-links" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=social-media-links"></a>
-  <a href="https://github.com/ftnimran/portfolio" > <img src="https://github-readme-stats.vercel.app/api/pin/?username=ftnimran&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=portfolio"></a>
+  <a href="https://github.com/ftnimran/portfolio" > <img src="https://github-stats-extended.vercel.app/api/pin?username=ftnimran&repo=ftnimran%2Fportfolio&show_owner=true&description_lines_count=3&theme=tokyonight"></a>
+  <a href="https://github.com/ftnimran/library-management-system" > <img src="https://github-stats-extended.vercel.app/api/pin?username=ftnimran&repo=ftnimran%2Flibrary-management-system&show_owner=true&description_lines_count=3&theme=tokyonight"></a>
 </div>
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
