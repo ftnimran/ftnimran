@@ -17,19 +17,19 @@
 
 <img align="right" alt="Coding" width="340" height="245" src="animation/coding animated.gif" />
 
-- 🔭 I'm currently working on repository [Work](https://github.com/ftnimran/linknest)
+- 🔭 I'm currently working on repository [**Work**](https://github.com/ftnimran/linknest)
 
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio05.qzz.io/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://portfolio05.qzz.io/)
 
-- 📄 Know about my experiences <a href="./animation/imran-ali.pdf">Resume</a>
+- 📄 Know about my experiences [**Resume**](https://ftnlinks.qzz.io/assets/pdf/IMRAN%20ALI.pdf)
 
 - 📫 How to reach me **imran30599@gmail.com**
 
-- 👯 I’m looking to collaborate on the [Project](https://github.com/ftnimran/Team-Work)
+- 👯 I’m looking to collaborate on the [**Project**](https://github.com/ftnimran/Team-Work)
 
 
 
