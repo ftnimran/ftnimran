@@ -87,7 +87,7 @@
   />
 </p>
 
-<!---
+
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=ftnimran&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22"
@@ -100,7 +100,7 @@
     width="49%"
   />
 </p>
---->
+
 
 ##
 <p align="center">
